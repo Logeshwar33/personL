@@ -1,0 +1,199 @@
+ 1  pwd
+    2  sudo su
+    3  history
+    4  cd ..
+    5  pwdd
+    6  pwd
+    7  ll
+    8  mkdir project1
+    9  sudo su
+   10  echo "hi "
+   11  echo $0
+   12  vi yest.sh
+   13  touch myone.sh
+   14  ls
+   15  nano myone.sh
+   16  cat myone.sh
+   17  ls
+   18  cat >> myone.sh
+   19  cat myone.sh
+   20  vi myone.sh
+   21  cat myone.sh
+   22  nano myone.sh
+   23  ./myone.sh
+   24  chmod +u myone.sh
+   25  ls -la
+   26  ./myone.sh
+   27  chmod +x myone.sh
+   28  ./myone.sh
+   29  vi myone.sh
+   30  ./myone.sh
+   31  vi myone.sh
+   32  ./myone.sh
+   33  vi myone.sh
+   34  ./myone.sh
+   35  vi myone.sh
+   36  ./myone.sh
+   37  vi myone.sh
+   38  ./myone.sh
+   39  cat myone.sh
+   40  vi myone.sh
+   41  ./myone.sh
+   42  git clone https://github.com/atingupta2005/simple-java-maven-app.git
+   43  cat simple-java-maven-app
+   44  sudo apt update
+   45  sudo apt install -y openjdk-11-jdk
+   46  sudo apt  install -y maven
+   47  git clone https://github.com/atingupta2005/simple-java-maven-app.git
+   48  cd hello-world-maven/
+   49  cd simple-java-maven-app
+   50  ls
+   51  mvn compile
+   52  tree
+   53  ls
+   54  tree target
+   55  sudo apt remove tree
+   56  sudo apt -y install tree
+   57  ls
+   58  tree target
+   59  history
+
+
+java -jar target/gs-maven-0.1.0.jar
+
+my-app-1.0-SNAPSHOT.jar
+
+mvn package
+pwd
+uname
+echo $USER
+ip add show
+mkdir /home/jenkins/jenkins_slave12
+
+
+mvn tomcat7:run
+
+
+1  apt-get install openssh-server
+    2  apt update
+    3  apt-get install openssh-server
+    4  service ssh start
+    5  /etc/init.d/ssh restart
+    6  useradd atin
+    7  passwd atin
+    8  ssh atin@localhost
+    9  userdel atin
+   10  adduser atin
+   11  ssh atin@localhost
+   12  cd opt/
+   13  apt install -y wget
+   14  wget https://mirrors.estointernet.in/apache/tomcat/tomcat-8/v8.5.58/bin/apache-tomcat-8.5.58.tar.gz
+   15  tar -xvzf apache-tomcat-8.5.58.tar.gz
+   16  cd /opt/apache-tomcat-8.5.58/bin/
+   17  chmod +x shutdown.sh
+   18  chmod +x startup.sh
+   19  apt install -y java-1.8.0-openjdk-devel
+   20  ./startup.sh
+   21  java
+   22  jd
+   23  jdk
+   24  apt-get install openjdk-8-jdk
+   25  ./startup.sh
+   26  find / -name context.xml
+   27  vi /opt/apache-tomcat-8.5.58/webapps/host-manager/META-INF/context.xml
+   28  vim /opt/apache-tomcat-8.5.58/webapps/host-manager/META-INF/context.xml
+   29  nano /opt/apache-tomcat-8.5.58/webapps/host-manager/META-INF/context.xml
+   30  apt install nano
+   31  nano /opt/apache-tomcat-8.5.58/webapps/host-manager/META-INF/context.xml
+   32  nano /opt/apache-tomcat-8.5.58/webapps/manager/META-INF/context.xml
+   33  nano /opt/apache-tomcat-8.5.58/conf/tomcat-users.xml
+   34  cd /opt/apache-tomcat-8.5.58/bin/shutdown.sh
+   35  /opt/apache-tomcat-8.5.58/bin/shutdown.sh
+   36  ./startup.sh
+   37  history | grep ssh
+   38  history | grep atin
+   39  ssh atin@localhost
+   40  service ssh start
+   41  ssh atin@localhost
+   42  ssh root@localhost
+   43  passwd root
+   44  ssh root@localhost
+   45  nano /etc/ssh/sshd_config
+   46  ssh root@localhost
+   47  service ssh stop
+   48  service ssh start
+   49  ssh root@localhost
+   50  passwd atin
+   51  sudo systemctl enable sshd.service
+   52  systemctl enable sshd.service
+   53  wget https://raw.githubusercontent.com/gdraheim/docker-systemctl-replacement/master/files/docker/systemctl.py -O /usr/local/bin/systemctl
+   54  systemctl enable sshd.service
+   55  systemctl enable ssh
+   56  systemctl enable ssh.service
+   57  ssh atin@localhost
+   58  service ssh start
+   59  ssh atin@localhost
+   60  systemctl enable sshd
+   61  ssh atin@localhost
+   62  systemctl enable sshd
+   63  ystemctl start sshd
+   64  systemctl start sshd
+   65  ystemctl start sshd
+   66  systemctl enable sshd
+   67  service ssh start
+   68  exit
+   69  apt  -y update
+   70  apt install -y openjdk-8-jdk
+   71  clear
+   72  apt  -y update
+   73  apt install -y openjdk-11-jdk
+   74  adduser jenkins --shell /bin/bash
+   75  exit
+   76  service ssh start
+   77  /opt/apache-tomcat-8.5.58/bin/startup.sh
+   78  mkdir tomcat
+   79  /opt/apache-tomcat-8.5.58/bin/shutdown.sh
+   80  /opt/apache-tomcat-8.5.58/bin/startup.sh
+   81  mkdir /home/jenkins/jenkins_slave
+   82  mkdir /home/jenkins/jenkins_slave30
+   83  logout
+   84  apt  -y update
+   85  apt install -y openjdk-11-jdk
+   86  java -version
+   87  adduser jenkins --shell /bin/bash
+   88  su jenkins
+   89  clear
+   90  git clone https://github.com/atingupta2005/java-servlet-hello
+   91  apt install git
+   92  git clone https://github.com/atingupta2005/java-servlet-hello
+   93  cd java-servlet-hello/
+   94  ls
+   95  mvn clean install
+   96  apt install maven
+   97  mvn clean install
+   98  mvn tomcat7:run
+   99  java - version
+  100  java -version
+  101  su jenkins
+  102  apt install git
+  103  apt install maven
+  104  git clone https://github.com/atingupta2005/java-servlet-hello
+  105   java-servlet-hecdllo
+  106  run tomcat:7
+  107  mvn tomcat7:run
+  108  apt install maven
+  109  history 
+  110  mvn tomcat7:run
+  111  cd java-servlet-hello/
+  112  mvn tomcat7:run
+  113  history 
+  114  2221
+  115  2223
+  116  apt install git
+  117  git clone https://github.com/atingupta2005/java-servlet-hello.git
+  118  cd java-servlet-hello/
+  119  apt install maven
+  120  mvn clean install
+  121  mvn tomcat7:run
+  122  history
+
